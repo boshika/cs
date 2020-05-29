@@ -19,7 +19,6 @@
 - Coursera- ML Review
 
 ## Week4
-## Week3
 - Python Deep Dive
 - Read CLRS: Sorting
 - Coursera-Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
