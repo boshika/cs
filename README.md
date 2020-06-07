@@ -11,7 +11,7 @@ Theory
 
 - [Python Overview](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9442462?start=435#overview)
 
--[MIT Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-1-algorithmic-thinking-peak-finding/)
+- [MIT Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-1-algorithmic-thinking-peak-finding/)
 
 Application
 - Elements of Programming Interview-Python
