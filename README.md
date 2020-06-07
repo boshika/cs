@@ -4,9 +4,13 @@
 
 ## Data Structures and Algorithms
 Theory
-- [Data Structures and Algorithms-By Michael T. Goodrich, Roberto Tamassia and Michael H. ](https://learning.oreilly.com/library/view/data-structures-and/9781118290279/06_chap01.html)
+- [Data Structures and Algorithms-By Michael T. Goodrich, Roberto Tamassia and Michael H. ]
+(https://learning.oreilly.com/library/view/data-structures-and/9781118290279/06_chap01.html)
+
 - CLRS
+
 - [Python Overview](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9442462?start=435#overview)
+
 -[MIT Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-1-algorithmic-thinking-peak-finding/)
 
 Application
