@@ -24,7 +24,7 @@ Testing
 
 # Schedule
 
-## Week1- 
+## Week1- Focus area: Stacks, Arrays, Linked List
 - Data Structures and Algorithms-By Michael T. Goodrich
 - Python Overview
 - CLRS
