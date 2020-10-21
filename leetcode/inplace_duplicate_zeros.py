@@ -8,6 +8,9 @@ Input: [1,0,2,3,0,4,5,0]
 Output: null
 Explanation: After calling your function, the input array is modified to: [1,0,0,2,3,0,0,4]
 Time Complexity: O(n), Space Complexity: O(1), as this an in-place duplication
+Leetcode Output: Runtime: 68 ms, faster than 81.35% of Python3 online submissions for
+Duplicate Zeros.
+Memory Usage: 14.6 MB, less than 65.91% of Python3 online submissions for Duplicate Zeros.
 """
 
 def duplicateZeros(nums):
