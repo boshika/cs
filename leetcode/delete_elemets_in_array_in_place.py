@@ -17,22 +17,22 @@ TIME COMPLEXITY: O(1) O(1)
 """
 
 
-class Solution:
-    def removeElement(self, nums: List[int], val: int) -> int:
-        p1 = len(nums) - 1
-        p2 = None
-        if val in nums:
-            p2 = 0
 
-        if p2 != None:
-            while p2 <= p1:
-                if nums[p2] == val:
-                    nums[p2], nums[p1] = nums[p1], nums[p2]
-                    p1 -= 1
-                else:
-                    p2 += 1
-        while nums and nums[len(nums) - 1] == val:
-            nums.pop()
+def removeElement(nums, val):
+    p1 = len(nums) - 1
+    p2 = None
+    if val in nums:
+        p2 = 0
 
-        return len(nums)
+    if p2 != None:
+        while p2 <= p1:
+            if nums[p2] == val:
+                nums[p2], nums[p1] = nums[p1], nums[p2]
+                p1 -= 1
+            else:
+                p2 += 1
+    while nums and nums[len(nums) - 1] == val:
+        nums.pop()
+
+    return len(nums)
 
