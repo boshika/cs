@@ -14,6 +14,13 @@ Create a hashmap, traverse the list and check if targetsum-i is in the hashmap
 If it is found then return [i, targetsum-i] else set hashmap[i] =0, this just seeting
 i as a key in the hash map and giving it some value
 Time Complexity: O(n), Space: O(n)
+Strategy 3: Sort the Array and Pointer Method
+Initially sort the array, then use two pointers one at the start of the array, one at the
+end of the array. If value at left pointer + right pointer == targetsum then return
+both values.
+If value for left pointer + right pointer > targetsum, then decrement right pointer
+If value for left pointer + right pointer < targetsum, then increment left pointer
+Time Complexity: O(n log n) time, O(1) space
 """
 
 
