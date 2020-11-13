@@ -23,7 +23,7 @@ Explanation:
 rotate 1 steps to the right: [99,-1,-100,3]
 rotate 2 steps to the right: [3,99,-1,-100]
 """
-
+"""Solutions 1"""
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
         """Time Complexity: O(n), Space:O(n)"""
@@ -32,3 +32,26 @@ class Solution:
         nums[:] = nums[-pointer:] + nums[:-pointer]
 
         return nums
+
+"""Solution 2"""
+
+
+class Solution:
+    def rotate(self, nums: List[int], k: int) -> None:
+        """Time Complexity: O(n), Space:O(1)"""
+        k = k % len(nums)
+
+        self.reverse(nums, 0, len(nums) - 1)
+        self.reverse(nums, 0, k - 1)
+        self.reverse(nums, k, len(nums) - 1)
+
+    def reverse(self, nums, start, end):
+        temp = 0
+
+        while start < end:
+            temp = nums[start]
+            nums[start] = nums[end]
+            nums[end] = temp
+
+            end -= 1
+            start += 1
