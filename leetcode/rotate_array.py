@@ -46,7 +46,7 @@ class Solution:
         self.reverse(nums, k, len(nums) - 1)
 
     def reverse(self, nums, start, end):
-        temp = 0
+        # temp = 0
 
         while start < end:
             temp = nums[start]
