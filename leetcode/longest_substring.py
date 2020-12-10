@@ -1,5 +1,6 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        """Time Complexity: O(n) Spca Complexity:O(n)"""
         p1 = 0
         d = {}
         curr_length, final_length = 0, 0
