@@ -40,7 +40,6 @@ class CentralTendency:
   
   def mode(self):
     dict = {}
-    mode = []
 
     for idx, value in enumerate(self.lst):
       if value in dict:
@@ -50,8 +49,6 @@ class CentralTendency:
     
     max_freq = max(list(dict.values()))
 
-    for key, value in dict.items():
-      if value == max_freq:
-        mode.append(key)
+    mode = [key for key, value in dict.items() if value == max_freq]
         
     return mode
