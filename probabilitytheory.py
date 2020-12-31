@@ -49,12 +49,12 @@ def calculate_probability(n):
     if i>20:
       data_science.append(i)
       
-    stat = set(stat)
-    computer_science = set(computer_science)
-    data_science = set(data_science)
+  stat = set(stat)
+  computer_science = set(computer_science)
+  data_science = set(data_science)
 
-    set_theory = SetTheory(stat, computer_science,data_science)
-    atleast_one_course = set_theory.union()
-    return atleast_one_course
+  set_theory = SetTheory(stat, computer_science,data_science)
+  atleast_one_course = set_theory.union()
+  return atleast_one_course
 
 print(calculate_probability(30))
