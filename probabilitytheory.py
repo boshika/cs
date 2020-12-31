@@ -36,6 +36,23 @@ class SetTheory:
     absorption_A = intersection.union(self.unpack_args[0])
 
     return absorption_A
+  
+  def complement(self, sample_space):
+    complement_union = []
+    complement_intersection = []
+
+    union = self.union()
+    intersection = self.intersection()
+
+    for i in sample_space:
+      if i not in union:
+        complement_union.append(i)
+
+    for i in sample_space:
+      if i not in intersection:
+        complement_intersection.append(i)
+
+    return complement_union, complement_intersection
  
 # ----------------------------------------------
 # Implementation 
@@ -48,6 +65,7 @@ print(set_theory)
 print(set_theory.union())
 print(set_theory.interesction())
 print(set_theory.theorem_of_absorption())
+print(set_theory.complement({1,2,3,4,5,6,1000000}))
 
 def calculate_probability(n):
   '''Calulate probability student attends atleast one courtse'''
