@@ -25,9 +25,18 @@ class SetTheory:
   
   def intersection(self):
     return set.intersection(*self.unpack_args)
+  
+  def theorem_of_absorption(self):
+    '''The theorem of absorption states that:
+       A∪(A∩B)=A
+       A subset which contains an intersection, and is in union with one of its supersets the intersection is "absorbed".
+    '''
+
+    intersection = set.intersection(*self.unpack_args)
+    absorption_A = intersection.union(self.unpack_args[0])
+
+    return absorption_A
  
-
-
 # ----------------------------------------------
 # Implementation 
 # ----------------------------------------------
@@ -38,6 +47,7 @@ set_theory = SetTheory(A,B)
 print(set_theory)
 print(set_theory.union())
 print(set_theory.interesction())
+print(set_theory.theorem_of_absorption())
 
 def calculate_probability(n):
   '''Calulate probability student attends atleast one courtse'''
