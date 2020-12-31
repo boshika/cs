@@ -110,5 +110,53 @@ class CentralTendency:
   def max(self):
     largest_value = max(self.lst)
     print(f'Maximum:\t{largest_value}')
-  
+    
+class MeasureOfSpread(CentralTendency):
+  """
+  A class to represent measure of spread for a collection
 
+  ...
+
+  Attributes
+  ..........
+  lst: list
+    collection of numbers
+
+  Methods
+  .......
+  population_sample_variance(str)
+      return population or sample variance based on choice 
+  population_sample_standard_deviation(str)
+      return population or sample sd based on choice
+  """
+
+  def __init__(self, lst):
+    CentralTendency.__init__(self, lst)
+
+    self.lst = lst
+
+  def population_sample_variance(self, type_of_variance):
+    mean = CentralTendency.mean(self)
+    squares = []
+
+    for i in self.lst:
+      squares.append((i-mean)**2)
+    
+    sum_of_squares = sum(squares)
+    
+    if type_of_variance == 'Population':
+      variance = 1/len(self.lst) * sum_of_squares
+    elif type_of_variance == 'Sample':
+      variance = 1/(len(self.lst)-1) * sum_of_squares
+    else:
+      raise ValueError (f'Type of variance has to be Population or Sample variance')
+
+    print(f'{type_of_variance}:\t{variance:.2F}')
+
+    return variance
+  
+  def population_sample_standard_deviation(self, type_of_sd):
+    variance = self.population_sample_variance(type_of_sd)
+    sd = variance ** 0.5
+
+    print(f'{type_of_sd}:\t{sd:.2F}')
