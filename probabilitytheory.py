@@ -21,7 +21,10 @@ class SetTheory:
     return f' {self.unpack_args}'
 
   def union(self):
-    return set().union(*self.unpack_args)
+    return set.union(*self.unpack_args)
+  
+  def intersection(self):
+    return set.intersection(*self.unpack_args)
  
 
 
@@ -34,6 +37,7 @@ B={'HHH','HHT','THT','THH'}
 set_theory = SetTheory(A,B)
 print(set_theory)
 print(set_theory.union())
+print(set_theory.interesction())
 
 def calculate_probability(n):
   '''Calulate probability student attends atleast one courtse'''
