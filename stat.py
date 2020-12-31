@@ -1,4 +1,4 @@
-'''Implement Central Tendency, Five number summary, Variance and STD
+'''Implement Central Tendency, Five number summary, Variance and SD
 '''
 class CentralTendency:
   """
