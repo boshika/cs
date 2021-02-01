@@ -6,7 +6,7 @@
 Theory
 - [Data Structures and Algorithms-By Michael T. Goodrich, Roberto Tamassia and Michael H. ]
 (https://learning.oreilly.com/library/view/data-structures-and/9781118290279/06_chap01.html)
-
+- [Problem Solving with Algorithms and Data Structures using Python] (https://runestone.academy/runestone/books/published/pythonds/index.html)
 - CLRS
 
 - [Python Overview](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9442462?start=435#overview)
