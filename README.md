@@ -35,7 +35,7 @@ Application
      
    - Data Warehousing, Data Processing and Exploration: SQL, Pandas, Numpy
     - [SQL For Data Analysis](https://learning.oreilly.com/library/view/sql-for-data/9781492088776/)
-    - [Data Processing and Exploration] (https://learning.oreilly.com/library/view/data-wrangling-with/9781789800111/#toc/)
+    - [Data Processing and Exploration](https://learning.oreilly.com/library/view/data-wrangling-with/9781789800111/#toc/)
     
    - Machine Learning Modeling: Scikit-Learn, Tensorflow, Keras, PyTorch
     - [ML Modeling](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
@@ -43,15 +43,16 @@ Application
     - [NLP with PyTorch](https://learning.oreilly.com/library/view/natural-language-processing/9781491978221/)
     
    - MLOps, Cloud Computing
-    - [Data Science on AWS] (Data Science on AWS)
+    - [Data Science on AWS](https://learning.oreilly.com/library/view/data-science-on/9781492079385/#toc)
    
-   - Data Science Workflows
+   - Data Science Workflows, CRISP-DM, Data Engineering
     - [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview)
       
 
-## Data Science Foundational Skillz
+## Spring 2021 Semester Schedule - [Trello Board To Track Weekly Assignments](https://trello.com/b/Jy4h3mjC/learnings)
 
 ## Week1
+   - [ ] Mercury
 ## Week2
 
 
