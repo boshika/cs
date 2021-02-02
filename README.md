@@ -1,6 +1,6 @@
 # WIP
 
-# Resources
+# Preparing for Data Science Interviews- Multi-month plan
 
 ## Data Structures and Algorithms
 Theory
@@ -20,33 +20,45 @@ Application
 - Leetcode
 - [AlgoExpert](https://www.algoexpert.io/questions)
 
-Testing
 
-# Schedule
+## Data Science Foundational Skills
+   - Machine Learning theory and deep dive via projects
+     - [Graduate School Work](https://github.com/boshika/ms-ds)
+     
+   - Probability and Statistics
+     - [Udemy Probability and Statistics](https://www.udemy.com/course/statistics-probability/learn/lecture/9562342#overview)
+     - [Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/titlepage01.html)
+     - [Bayesian Statistics the Fun Way](https://learning.oreilly.com/library/view/bayesian-statistics-the/9781098122492/)
+     
+   - Linear Algebra
+     - [Linear Algebra for Data Scientcist](https://www.udemy.com/course/linear-algebra-for-beginners-matrices-and-vector-spaces/learn/lecture/10429656#overview)
+     
+   - Data Warehousing, Data Processing and Exploration: SQL, Pandas, Numpy
+    - [SQL For Data Analysis](https://learning.oreilly.com/library/view/sql-for-data/9781492088776/)
+    - [Data Processing and Exploration] (https://learning.oreilly.com/library/view/data-wrangling-with/9781789800111/#toc/)
+    
+   - Machine Learning Modeling: Scikit-Learn, Tensorflow, Keras, PyTorch
+    - [ML Modeling](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+    - [Deep Learning with PyTorch](https://learning.oreilly.com/library/view/deep-learning-with/9781617295263/)
+    - [NLP with PyTorch](https://learning.oreilly.com/library/view/natural-language-processing/9781491978221/)
+    
+   - MLOps, Cloud Computing
+    - [Data Science on AWS] (Data Science on AWS)
+   
+   - Data Science Workflows
+    - [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview)
+      
 
-## Week1- Focus area: Stacks, Arrays, Linked List
-- Data Structures and Algorithms-By Michael T. Goodrich
-- Python Overview
-- CLRS
-- MIT Introduction to Algorithms
+## Data Science Foundational Skillz
 
+## Week1
 ## Week2
-- Data Structures and Algorithms-By Michael T. Goodrich
-- Python Overview
-- CLRS
-- MIT Introduction to Algorithms
+
 
 ## Week3
-- Data Structures and Algorithms-By Michael T. Goodrich
-- Python Overview
-- CLRS
-- MIT Introduction to Algorithms
+
 
 ## Week4
-- Data Structures and Algorithms-By Michael T. Goodrich
-- Python Overview
-- CLRS
-- MIT Introduction to Algorithms
 
 ## Week5
 ## Week6
