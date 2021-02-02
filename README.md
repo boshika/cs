@@ -52,7 +52,7 @@ Application
 ## Spring 2021 Semester Schedule - [Trello Board To Track Weekly Assignments](https://trello.com/b/Jy4h3mjC/learnings)
 
 ## Week1
-   - unchecked # [checkbox:unchecked]
+   &#9745
 ## Week2
 
 
