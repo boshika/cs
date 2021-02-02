@@ -50,19 +50,18 @@ Application
       
 
 ## Spring 2021 Semester Schedule - [Trello Board To Track Weekly Assignments](https://trello.com/b/Jy4h3mjC/learnings)
+----------------------------------------------------------------------------------------------------------------------
 
 ## Week1
 - [ ] Mercury
-   
-   
+- [ ] Mercury
+- [ ] Mercury
+- [ ] Mercury
+- [ ] Mercury
+
 ## Week2
-
-
 ## Week3
-
-
 ## Week4
-
 ## Week5
 ## Week6
 ## Week7
