@@ -52,16 +52,35 @@ Application
 ## Spring 2021 Semester Schedule - [Trello Board To Track Weekly Assignments](https://trello.com/b/Jy4h3mjC/learnings)
 ----------------------------------------------------------------------------------------------------------------------
 
-## Week1
-- [ ] Mercury
-- [ ] Mercury
-- [ ] Mercury
-- [ ] Mercury
-- [ ] Mercury
+## Week1- 02/01-02/07
+- [ ] DS&Algo Specialization, Week 2/3
+- [ ] DLH, Compelte HW1
+- [ ] ABM, Complete Quiz 1 and 2 
+- [ ] ABM, Start HW 1
+- [ ] DM, Complete Week 1 reading, Quiz 1
+- [ ] ALM, Complete Week 1 reading
+- [ ] [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview)
+- [ ] [Udemy Probability and Statistics](https://www.udemy.com/course/statistics-probability/learn/lecture/9562342#overview) 
+- [ ] [Bayesian Statistics the Fun Way](https://learning.oreilly.com/library/view/bayesian-statistics-the/9781098122492/)
+- [ ] Stacks(Reference links in the theory portion)
 
-## Week2
-## Week3
-## Week4
+
+## Week2- 02/08-02/14
+- [ ] DS&Algo Specialization, Week 3/4
+- [ ] ABM, Complete HW 1
+- [ ] ABM, Complete Quiz 3
+- [ ] DM, Complete Week 2 reading, Quiz 2
+- [ ] ALM, Start HW 1
+- [ ] ALM, Complete Week 2 reading
+- [ ] DLH, Complete Week 3 reading
+- [ ] [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview)
+- [ ] [Bayesian Statistics the Fun Way](https://learning.oreilly.com/library/view/bayesian-statistics-the/9781098122492/)
+- [ ] [Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/titlepage01.html)
+- [ ] Queues(Reference links in the theory portion)
+
+
+## Week3- 02/15-02/21
+## Week4- 02/22-02/28
 ## Week5
 ## Week6
 ## Week7
