@@ -55,6 +55,8 @@ Application
 ## Week1- 02/01-02/07
 - [ ] DS&Algo Specialization, Week 2/3
 - [ ] DLH, Compelte HW1
+- [ ] DLH, Compelte Peer Graded Write-up 1
+- [ ] DLH, Compelte Peer review 1
 - [ ] ABM, Complete Quiz 1 and 2 
 - [ ] ABM, Start HW 1
 - [ ] DM, Complete Week 1 reading, Quiz 1
@@ -73,6 +75,8 @@ Application
 - [ ] ALM, Start HW 1
 - [ ] ALM, Complete Week 2 reading
 - [ ] DLH, Complete Week 3 reading
+- [ ] DLH, Compelte Peer Graded Write-up 2
+- [ ] DLH, Compelte Peer review 2
 - [ ] [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview)
 - [ ] [Bayesian Statistics the Fun Way](https://learning.oreilly.com/library/view/bayesian-statistics-the/9781098122492/)
 - [ ] [Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/titlepage01.html)
