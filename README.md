@@ -55,8 +55,8 @@ Application
 ## Week1- 02/01-02/07
 - [ ] DS&Algo Specialization, Week 2/3
 - [ ] DLH, Compelte HW1
-- [ ] DLH, Compelte Peer Graded Write-up 1
-- [ ] DLH, Compelte Peer review 1
+- [x] DLH, Compelte Peer Graded Write-up 1
+- [x] DLH, Compelte Peer review 1
 - [ ] ABM, Complete Quiz 1 and 2 
 - [ ] ABM, Start HW 1
 - [ ] DM, Complete Week 1 reading, Quiz 1
