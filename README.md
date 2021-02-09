@@ -4,9 +4,8 @@
 
 ## Data Structures and Algorithms
 Theory
-- [Data Structures and Algorithms-By Michael T. Goodrich, Roberto Tamassia and Michael H. ]
-(https://learning.oreilly.com/library/view/data-structures-and/9781118290279/06_chap01.html)
-- [Problem Solving with Algorithms and Data Structures using Python] (https://runestone.academy/runestone/books/published/pythonds/index.html)
+- [Data Structures and Algorithms-By Michael T. Goodrich, Roberto Tamassia and Michael H ](https://learning.oreilly.com/library/view/data-structures-and/9781118290279/06_chap01.html)
+- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - CLRS
 
 - [Python Overview](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9442462?start=435#overview)
@@ -52,22 +51,22 @@ Application
 ## Spring 2021 Semester Schedule - [Trello Board To Track Weekly Assignments](https://trello.com/b/Jy4h3mjC/learnings)
 ----------------------------------------------------------------------------------------------------------------------
 
-## Week1- 02/01-02/07
+## Week3- 02/08-02/14
 - [ ] DS&Algo Specialization, Week 2/3
-- [ ] DLH, Compelte HW1
-- [x] DLH, Compelte Peer Graded Write-up 1
-- [x] DLH, Compelte Peer review 1
+- [ ] DLH, HW1
+- [x] DLH, Compelte Peer Graded Write-up 2
+- [x] DLH, Compelte Peer review 2
 - [ ] ABM, Complete Quiz 1 and 2 
-- [ ] ABM, Start HW 1
-- [ ] DM, Complete Week 1 reading, Quiz 1
-- [ ] ALM, Complete Week 1 reading
+- [ ] ABM, HW 1
+- [ ] DM, Complete Week 1, 2 reading, Quiz 1
+- [ ] ALM, Complete Week 1, 2 reading
 - [ ] [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview)
 - [ ] [Udemy Probability and Statistics](https://www.udemy.com/course/statistics-probability/learn/lecture/9562342#overview) 
 - [ ] [Bayesian Statistics the Fun Way](https://learning.oreilly.com/library/view/bayesian-statistics-the/9781098122492/)
 - [ ] Stacks(Reference links in the theory portion)
 
 
-## Week2- 02/08-02/14
+## Week4- 02/15-02/21
 - [ ] DS&Algo Specialization, Week 3/4
 - [ ] ABM, Complete HW 1
 - [ ] ABM, Complete Quiz 3
@@ -83,10 +82,8 @@ Application
 - [ ] Queues(Reference links in the theory portion)
 
 
-## Week3- 02/15-02/21
-## Week4- 02/22-02/28
-## Week5
-## Week6
+## Week5 
+## Week6 
 ## Week7
 ## Week8
 ## Week9
