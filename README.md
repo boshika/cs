@@ -1,6 +1,6 @@
 # WIP
 
-# Preparing for Data Science Interviews- Multi-month plan
+# School Work + Preparing for Data Science Interviews- Spring 2021
 
 ## Data Structures and Algorithms
 Theory
