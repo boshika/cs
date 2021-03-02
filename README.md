@@ -93,6 +93,7 @@ Application
 - [ ] DLH, Start HW3
 - [ ] DS&ALGO, Review lists and arrays
 - [ ] [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview), start working on Project 1
+- [ ] Spend 1 hour reading Data Structures and Algorithm in Python
 
 ## Week7
 ## Week8
