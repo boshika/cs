@@ -52,38 +52,48 @@ Application
 ----------------------------------------------------------------------------------------------------------------------
 
 ## Week3- 02/08-02/14
-- [ ] DS&Algo Specialization, Week 2/3
-- [ ] DLH, HW1
+- [x] DLH, HW1
 - [x] DLH, Compelte Peer Graded Write-up 2
 - [x] DLH, Compelte Peer review 2
-- [ ] ABM, Complete Quiz 1 and 2 
-- [ ] ABM, HW 1
-- [ ] DM, Complete Week 1, 2 reading, Quiz 1
-- [ ] ALM, Complete Week 1, 2 reading
+- [x] DM, Complete Week 1, 2 reading, Quiz 1
+- [x] ALM, Complete Week 1, 2 reading
 - [ ] [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview)
 - [ ] [Udemy Probability and Statistics](https://www.udemy.com/course/statistics-probability/learn/lecture/9562342#overview) 
 - [ ] [Bayesian Statistics the Fun Way](https://learning.oreilly.com/library/view/bayesian-statistics-the/9781098122492/)
-- [ ] Stacks(Reference links in the theory portion)
 
 
 ## Week4- 02/15-02/21
-- [ ] DS&Algo Specialization, Week 3/4
-- [ ] ABM, Complete HW 1
-- [ ] ABM, Complete Quiz 3
-- [ ] DM, Complete Week 2 reading, Quiz 2
-- [ ] ALM, Start HW 1
-- [ ] ALM, Complete Week 2 reading
-- [ ] DLH, Complete Week 3 reading
-- [ ] DLH, Compelte Peer Graded Write-up 2
-- [ ] DLH, Compelte Peer review 2
+- [x] DM, Complete Week 2 reading, Quiz 2
+- [x] ALM, Start HW 1
+- [x] ALM, Complete Week 2 reading
+- [x] DLH, Complete Week 3 reading
+- [x] DLH, Compelte Peer Graded Write-up 2
+- [x] DLH, Compelte Peer review 2
 - [ ] [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview)
 - [ ] [Bayesian Statistics the Fun Way](https://learning.oreilly.com/library/view/bayesian-statistics-the/9781098122492/)
 - [ ] [Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/titlepage01.html)
-- [ ] Queues(Reference links in the theory portion)
 
 
-## Week5 
-## Week6 
+## Week5- 02/22-02/28
+- [x] DM, Complete Week 2 reading, Quiz 3 and 4
+- [x] ALM, Progress on HW 1
+- [x] ALM, Complete Week 2 reading
+- [x] DLH, Complete Week 4 reading
+- [x] DLH, Compelte Peer Graded Write-up 3
+- [x] DLH, Compelte Peer review 3
+
+## Week6
+01/01-01/07
+- [ ] DM, Complete Week 6 reading, Quiz 6
+- [ ] ALM, Complete HW 1 and 2
+- [ ] ALM, Complete Week 6 reading
+- [x] DLH, Complete Week 6 reading
+- [x] DLH, Compelte Peer Graded Write-up 6
+- [x] DLH, Compelte Peer review 6
+- [ ] DLH, Start HW3
+- [ ] DS&ALGO, Review lists and arrays
+- [ ] [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview), start working on Project 1
+
 ## Week7
 ## Week8
 ## Week9
