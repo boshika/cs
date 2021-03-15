@@ -46,6 +46,8 @@ Application
    
    - Data Science Workflows, CRISP-DM, Data Engineering
     - [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview)
+
+   - Machine Learning System Design Interviews?
       
 
 ## Spring 2021 Semester Schedule - [Trello Board To Track Weekly Assignments](https://trello.com/b/Jy4h3mjC/learnings)
@@ -103,9 +105,4 @@ Application
 - [ ] Solve 2 easy and 1 medium problem on Leetcode, Topic: Arrays, Lists
 - [ ] Watch https://github.com/boshika/system-design-primer#system-design-topics-start-here
 
-## Week8
-## Week9
-## Week10
-## Week11
-## Week12
-## Week13
+
