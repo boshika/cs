@@ -83,19 +83,26 @@ Application
 - [x] DLH, Compelte Peer review 3
 
 ## Week6
-01/01-01/07
+03/01-03/07
 - [ ] DM, Complete Week 6 reading, Quiz 6
-- [ ] ALM, Complete HW 1 and 2
+- [x] ALM, Complete HW 1 and 2
 - [ ] ALM, Complete Week 6 reading
 - [x] DLH, Complete Week 6 reading
 - [x] DLH, Compelte Peer Graded Write-up 6
 - [x] DLH, Compelte Peer review 6
-- [ ] DLH, Start HW3
+
+
+## Week8
+03/15-03/21
 - [ ] DS&ALGO, Review lists and arrays
 - [ ] [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview), start working on Project 1
-- [ ] Spend 1 hour reading Data Structures and Algorithm in Python
+- [ ] Spend 1 hour reading Data Structures and Algorithm in Python, Topic: Arrays and Lists
+- [ ] DLH, Finish HW3
+- [ ] ALM, Complete HW4 and Hw5
+- [ ] DM, Complete HW 3, and Quiz
+- [ ] Solve 2 easy and 1 medium problem on Leetcode, Topic: Arrays, Lists
+- [ ] Watch https://github.com/boshika/system-design-primer#system-design-topics-start-here
 
-## Week7
 ## Week8
 ## Week9
 ## Week10
