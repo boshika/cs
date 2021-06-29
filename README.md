@@ -50,59 +50,6 @@ Application
    - Machine Learning System Design Interviews?
       
 
-## Spring 2021 Semester Schedule - [Trello Board To Track Weekly Assignments](https://trello.com/b/Jy4h3mjC/learnings)
-----------------------------------------------------------------------------------------------------------------------
 
-## Week3- 02/08-02/14
-- [x] DLH, HW1
-- [x] DLH, Compelte Peer Graded Write-up 2
-- [x] DLH, Compelte Peer review 2
-- [x] DM, Complete Week 1, 2 reading, Quiz 1
-- [x] ALM, Complete Week 1, 2 reading
-- [ ] [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview)
-- [ ] [Udemy Probability and Statistics](https://www.udemy.com/course/statistics-probability/learn/lecture/9562342#overview) 
-- [ ] [Bayesian Statistics the Fun Way](https://learning.oreilly.com/library/view/bayesian-statistics-the/9781098122492/)
-
-
-## Week4- 02/15-02/21
-- [x] DM, Complete Week 2 reading, Quiz 2
-- [x] ALM, Start HW 1
-- [x] ALM, Complete Week 2 reading
-- [x] DLH, Complete Week 3 reading
-- [x] DLH, Compelte Peer Graded Write-up 2
-- [x] DLH, Compelte Peer review 2
-- [ ] [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview)
-- [ ] [Bayesian Statistics the Fun Way](https://learning.oreilly.com/library/view/bayesian-statistics-the/9781098122492/)
-- [ ] [Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/titlepage01.html)
-
-
-## Week5- 02/22-02/28
-- [x] DM, Complete Week 2 reading, Quiz 3 and 4
-- [x] ALM, Progress on HW 1
-- [x] ALM, Complete Week 2 reading
-- [x] DLH, Complete Week 4 reading
-- [x] DLH, Compelte Peer Graded Write-up 3
-- [x] DLH, Compelte Peer review 3
-
-## Week6
-03/01-03/07
-- [ ] DM, Complete Week 6 reading, Quiz 6
-- [x] ALM, Complete HW 1 and 2
-- [ ] ALM, Complete Week 6 reading
-- [x] DLH, Complete Week 6 reading
-- [x] DLH, Compelte Peer Graded Write-up 6
-- [x] DLH, Compelte Peer review 6
-
-
-## Week8
-03/15-03/21
-- [ ] DS&ALGO, Review lists and arrays
-- [ ] [Udacity](https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview), start working on Project 1
-- [ ] Spend 1 hour reading Data Structures and Algorithm in Python, Topic: Arrays and Lists
-- [ ] DLH, Finish HW3
-- [ ] ALM, Complete HW4 and Hw5
-- [ ] DM, Complete HW 3, and Quiz
-- [ ] Solve 2 easy and 1 medium problem on Leetcode, Topic: Arrays, Lists
-- [ ] Watch https://github.com/boshika/system-design-primer#system-design-topics-start-here
 
 
