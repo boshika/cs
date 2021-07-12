@@ -79,5 +79,66 @@ print(lst.search(20))
 print(lst.listprint())
 
 
+# Alternate 
+class Node:
+    def __init__(self, data, next=None):
+        self.data = data
+        self.next = next
+
+
+class LinkedList:
+    def __init__(self):
+        self.head = None
+        
+    def print_nodes(self):
+        last_node = self.head
+        
+        while last_node:
+            print(last_node.data)
+            last_node = last_node.next
+    
+    def insert(self, data):
+        node = Node(data)
+        
+        if self.head == None:
+            self.head = node
+            return
+            
+        last_node = self.head
+        
+        while last_node.next:
+            last_node = last_node.next
+        
+        last_node.next = node
+        
+    def prepend(self, data):
+        node = Node(data)
+        
+        node.next = self.head
+        self.head = node
+        
+    def insert_at_loc(self, prev_node, data):
+        node = Node(data)
+        
+        if not prev_node:
+            return None
+        
+        node.next = prev_node.next
+        prev_node.next = node
+        
+        
+    def removedup(self):
+    # Write your code here.
+        last_node = self.head
+        
+        while last_node.next:
+            distinctnode = last_node.next
+            while distinctnode is not None and distinctnode.data == last_node.data:
+                distinctnode = distinctnode.next
+                
+            last_node.next = distinctnode
+            last_node = distinctnode
+
+
 
 
