@@ -2,12 +2,6 @@
 394. Decode String
 Medium
 
-5590
-
-256
-
-Add to List
-
 Share
 Given an encoded string, return its decoded string.
 
@@ -47,7 +41,7 @@ All the integers in s are in the range [1, 300].
 
 
 class Solution:
-    def decodeString(self, s: str) -> str:
+    def decodeString(self, s):
         stack = []
         for i in s:
             if i != ']':
